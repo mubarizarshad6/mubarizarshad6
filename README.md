@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mubariz Arshad  
 
-💻 **Senior Full Stack & Mobile App Developer**  
+💻 **Senior Full Stack Web & Mobile App Developer**  
 🚀 6+ years building apps in **Web · Mobile · Cloud · DevOps**  
 🌍 Delivered 50+ projects across **E-commerce, Healthcare, Education, SaaS, and Finance**  
 
