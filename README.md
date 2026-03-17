@@ -61,33 +61,6 @@
 
 ---
 
-## 💼 Work Experience
-
-**Senior React Native & Mobile App Developer** @ GlixenTechnologies  
-*April 2021 – Present*  
-- Lead mobile app development division specializing in React Native and cross-platform applications
-- Delivered 15+ production apps for iOS and Android
-
-**Mobile & Full Stack Developer** @ Softech Consulting  
-*October 2020 – March 2021*  
-- Developed mobile-first web applications and cross-platform mobile solutions for enterprise clients
-
-**Full Stack Developer** @ BLC Studio  
-*March 2018 – September 2020*  
-- Full stack development with focus on web and mobile application architecture
-
----
-
-## 🎓 Education
-
-**Master of Computer Science (MSCS)** – Artificial Intelligence  
-*University of West Florida* | 2012-2014
-
-**Bachelor of Computer Science** – Computer Programming  
-*Oklahoma State University* | 2008-2012
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubarizarshad6&show_icons=true&theme=radical)
