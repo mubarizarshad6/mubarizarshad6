@@ -61,11 +61,61 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Work Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubarizarshad6&show_icons=true&theme=radical)
+**Senior React Native & Mobile App Developer** @ GlixenTechnologies  
+*April 2021 – Present*  
+- Lead mobile app development division specializing in React Native and cross-platform applications
+- Delivered 15+ production apps for iOS and Android
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubarizarshad6&layout=compact&theme=radical)
+**Mobile & Full Stack Developer** @ Softech Consulting  
+*October 2020 – March 2021*  
+- Developed mobile-first web applications and cross-platform mobile solutions for enterprise clients
+
+**Full Stack Developer** @ BLC Studio  
+*March 2018 – September 2020*  
+- Full stack development with focus on web and mobile application architecture
+
+---
+
+## 🎓 Education
+
+**Master of Computer Science (MSCS)** – Artificial Intelligence  
+*University of West Florida* | 2012-2014
+
+**Bachelor of Computer Science** – Computer Programming  
+*Oklahoma State University* | 2008-2012
+
+---
+
+## 📊 GitHub Analytics
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=mubarizarshad6&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=mubarizarshad6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /&gt;
+  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubarizarshad6&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=mubarizarshad6&theme=radical&hide_border=true" alt="GitHub Streak" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=mubarizarshad6&theme=redical&hide_border=true" alt="Contribution Graph" /&gt;
+&lt;/p&gt;
+
+---
+
+## 🔥 Developer Metrics
+
+- **6+ Years** of professional mobile development
+- **50+** Production apps shipped
+- **980+** Contributions in the last year
+- **15+** React Native & Flutter projects
+- **99.9%** Uptime on VoIP implementations
 
 ---
 
