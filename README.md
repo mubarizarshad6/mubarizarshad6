@@ -59,35 +59,18 @@
 | **Education Platform** | React Native + Firebase | Interactive courses & live quizzes |
 | **VoIP Communication App** | Flutter + Twilio API | 99.9% uptime, real-time audio |
 
+
 ---
 
 ## 📊 GitHub Analytics
 
-&lt;div align="center"&gt;
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mubarizarshad6&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
-  
-&lt;/div&gt;
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mubarizarshad6&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
 
-&lt;div align="center"&gt;
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubarizarshad6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubarizarshad6&layout=compact&theme=radical&hide_border=true&langs_count=8)
-  
-&lt;/div&gt;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubarizarshad6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
 
-&lt;div align="center"&gt;
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubarizarshad6&theme=radical&hide_border=true)
-  
-&lt;/div&gt;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubarizarshad6&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-&lt;div align="center"&gt;
-  
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mubarizarshad6&theme=redical&hide_border=true)
-  
-&lt;/div&gt;
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubarizarshad6&theme=radical&hide_border=true)
 
 ---
 
