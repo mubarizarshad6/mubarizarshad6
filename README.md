@@ -64,7 +64,6 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mubarizarshad6&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubarizarshad6&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
 
