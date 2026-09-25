@@ -3,9 +3,9 @@
 **Senior Mobile App Developer | React Native & Flutter Specialist | iOS & Android**
 
 📍 Rosemount, MN, USA  
-💼 6+ years building cross-platform mobile applications  
-🚀 50+ apps delivered on App Store & Google Play  
-💰 $10K+ earned on Upwork | 92% Job Success | Top Rated
+💼 7+ years building cross-platform mobile applications  
+🚀 80+ apps delivered on App Store & Google Play  
+💰 $30K+ earned on Upwork | 100% Job Success | Top Rated
 
 ---
 
